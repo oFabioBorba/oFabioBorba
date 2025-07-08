@@ -1,6 +1,6 @@
- Oi, eu sou Fabio Borba
+## Oi, eu sou Fabio Borba 💻 
 
-🚀 Atualmente no 5º período de Ciência da Computação, buscando conhecimentos | Explorando QA, Back-End e Bancos de Dados
+🚀 Atualmente no 5º período de Ciência da Computação, buscando conhecimentos | Explorando QA, Back-End, Front-End e Bancos de Dados
 
 🎓 Atualmente aprendendo Cypress, HTML, CSS, JavaScript.
 
