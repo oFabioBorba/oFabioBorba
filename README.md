@@ -1,6 +1,6 @@
 ## Oi, eu sou Fabio Borba 💻 
 
-🚀 Atualmente no 5º período de Ciência da Computação, buscando aplicar conhecimentos na prática
+🚀 Atualmente no 6º período de Ciência da Computação, buscando aplicar conhecimentos na prática
 
 🛠️ Explorando QA, Back-End, Front-End e Bancos de Dados.
 
