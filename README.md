@@ -1,9 +1,10 @@
 ## Oi, eu sou Fabio Borba 💻 
 
-🚀 Atualmente no 5º período de Ciência da Computação, buscando aplicar conhecimentos na prática <br/>
+🚀 Atualmente no 5º período de Ciência da Computação, buscando aplicar conhecimentos na prática
+
 🛠️ Explorando QA, Back-End, Front-End e Bancos de Dados.
 
-🎓 Atualmente aprendendo Cypress, HTML, CSS, JavaScript.
+🎓 Aprendendo Cypress, HTML, CSS, JavaScript.
 
 🔍 Conhecimento em PostgreSQL, SQL Server, MariaDB e MongoDB.
 
