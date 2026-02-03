@@ -1,6 +1,6 @@
 ## Oi, eu sou Fabio Borba 💻 
 
-🚀 Atualmente no 6º período de Ciência da Computação, buscando aplicar conhecimentos na prática
+🚀 Atualmente no 7º período de Ciência da Computação, buscando aplicar conhecimentos na prática
 
 🛠️ Explorando QA, Back-End, Front-End e Bancos de Dados.
 
@@ -8,7 +8,7 @@
 
 🔍 Conhecimento em PostgreSQL, SQL Server, MariaDB e MongoDB.
 
-💼 Possuo 2 anos de experiência com PostgreSQL, atuando em:
+💼 Possuo 3 anos de experiência com PostgreSQL, atuando em:
  - Manutenção de bases de dados, incluindo recuperação de bases corrompidas;
  - Ajustes de lentidão e análise de desempenho para otimização;
  - Ajustes de duplicidade e index corrompidos.
